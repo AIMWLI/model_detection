@@ -1,0 +1,3 @@
+from flask_tools.flask_server_decorator import FlaskAppDecorator
+from flask_tools.flask_client_metaclass import MetaClientSender
+flaskappdecorator = FlaskAppDecorator()
